@@ -14,3 +14,4 @@ I build serverless apps and AI / MCP tools on AWS.
 ## What I work with
 
 Python · TypeScript · Swift · AWS (Lambda, DynamoDB, EventBridge, Bedrock, Amplify) · Next.js · MCP / Claude
+
