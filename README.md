@@ -1,6 +1,6 @@
 ## Hi, I'm Megan Schott 
 
-I build serverless apps and AI / MCP tools on AWS — plus home-automation tinkering and the occasional iOS app.
+I build AI agents and MCP tools — plus the serverless and native apps around them. Mostly things I actually use.
 
 ## Projects
 
