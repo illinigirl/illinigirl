@@ -1,6 +1,6 @@
 ## Hi, I'm Megan Schott 👋
 
-I build serverless apps and AI / MCP tools — mostly Python on AWS.
+I build serverless apps and AI / MCP tools on AWS.
 
 ## Projects
 
@@ -13,4 +13,4 @@ I build serverless apps and AI / MCP tools — mostly Python on AWS.
 
 ## What I work with
 
-Python · AWS (Lambda, DynamoDB, EventBridge, Bedrock, Amplify) · Next.js · MCP / Claude
+Python · TypeScript · Swift · AWS (Lambda, DynamoDB, EventBridge, Bedrock, Amplify) · Next.js · MCP / Claude
